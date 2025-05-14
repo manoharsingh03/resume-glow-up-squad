@@ -23,7 +23,7 @@ const Index = () => {
             Vibe Check Your Resume
           </h1>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto mb-8 opacity-90">
-            Get feedback on your resume from three unique perspectives: HR Professional, Brutally Honest Friend, and Gen-Z Lingo.
+            Get feedback on your resume from three unique perspectives: HR Professional, Brutally Honest Friend, and Gen-Z Lingo by mona darling.
           </p>
           <div className="flex flex-col md:flex-row gap-4 justify-center">
             <a 
